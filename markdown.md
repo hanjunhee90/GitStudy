@@ -54,7 +54,7 @@
 ```
  ![이미지 설명](http://~)
 ```
-![영화포스터](https://~)
+![영화포스터](https://kiramonthly.com/677?pidx=0)
 
 7. 인용구
 ```
@@ -98,4 +98,5 @@
  [배지 추가2](https://shields.io)
 
  <img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white">
+ <img src="https://img.shields.io/badge/java-green?style=for-the-badge&logo=JAVA&logoColor=white">
 
