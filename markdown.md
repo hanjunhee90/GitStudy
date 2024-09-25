@@ -54,7 +54,7 @@
 ```
  ![이미지 설명](http://~)
 ```
-![영화포스터](https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%ED%96%89#/media/%ED%8C%8C%EC%9D%BC:%EB%B6%80%EC%82%B0%ED%96%89.jpg)
+![영화포스터](https://postfiles.pstatic.net/MjAxOTA4MjhfMjkx/MDAxNTY2OTgwNjI3MTc4.vWk1ItHoUiqfYoarCMdFmGoOGX6XOwWpnj1IcvC6fLwg.-4m2XLXonbPbZ_M2u-pi3mKNWHKhovt9hqQe5bs3omcg.PNG.lavita-/1.%EC%98%81%ED%99%941987%ED%8F%AC%EC%8A%A4%ED%84%B0.png?type=w3840)
 
 7. 인용구
 ```
