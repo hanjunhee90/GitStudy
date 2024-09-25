@@ -54,7 +54,7 @@
 ```
  ![이미지 설명](http://~)
 ```
-![영화포스터][https://kiramonthly.com/677?pidx=0](https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%ED%96%89#/media/%ED%8C%8C%EC%9D%BC:%EB%B6%80%EC%82%B0%ED%96%89.jpg)
+![영화포스터](https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%ED%96%89#/media/%ED%8C%8C%EC%9D%BC:%EB%B6%80%EC%82%B0%ED%96%89.jpg)
 
 7. 인용구
 ```
